@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/anushree/AndroidStudioProjects/SimpleMessenger_Test/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/home/anushree/AndroidStudioProjects/SimpleMessenger_Test/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/anushree/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/home/anushree/AndroidStudioProjects/SimpleMessenger/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

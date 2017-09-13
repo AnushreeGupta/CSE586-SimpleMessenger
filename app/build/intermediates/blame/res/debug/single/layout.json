@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/anushree/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/anushree/AndroidStudioProjects/SimpleMessenger/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/anushree/AndroidStudioProjects/SimpleMessenger_Test/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/anushree/AndroidStudioProjects/SimpleMessenger_Test/app/src/main/res/layout/main.xml"
+    }
+]
