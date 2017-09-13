@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/anushree/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/anushree/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_c82b40876ae7ec7c02df985d2435969f02843115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anushree/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/anushree/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_ea94c3e9a6f5313618dfacf737f251a9b1bab641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anushree/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/anushree/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_0e112d5d5a25ab6f0afc803f85d8e09415c0badc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anushree/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/anushree/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_9c42ef88aa179ead8ec048b2577b050e39d63198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anushree/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/anushree/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_e58e51c56197fa0ef674a3d03a23d0db1f8408b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/anushree/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/anushree/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_d924acab8d8aa1cc09c555a9a4b7f1470d232e45.jar" />
+    </item>
+
+</items>
